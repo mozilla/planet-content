@@ -208,7 +208,6 @@
               <li><a href='http://planet.mozilla.org/'>Planet Mozilla</a></li>
               <li><a href='http://planet.mozilla.org/thunderbird/'>Planet Thunderbird</a></li>
               <li><a href='http://planet.bugzilla.org/'>Planet Bugzilla</a></li>
-              <li><a href='http://ux.firefox.com/'>Planet UX</a></li>
               <li><a href='https://quality.mozilla.org/'>Planet QMO</a></li>
               <li><a href='http://planet.mozilla.org/ateam/'>Planet Automation</a></li>
               <li><a href='http://planet.mozilla.org/interns/'>Mozilla Interns</a></li>
