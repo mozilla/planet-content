@@ -1,6 +1,0 @@
-ExpiresActive on
-ExpiresDefault "access plus 5 minutes"
-
-AddType text/html html
-
-RewriteEngine off

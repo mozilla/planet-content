@@ -210,14 +210,10 @@
             <ul class='planets'>
               <li><a href='http://planet.mozilla.org/projects/'>Projects</a></li>
               <li><a href="http://planet.mozilla.org/participation/">Planet Participation</a></li>
-              <li><a href="http://planet.mozilla.org/mozreview/">Planet MozReview</a></li>
               <li><a href='http://planet.mozilla.org/thunderbird/'>Planet Thunderbird</a></li>
-              <li><a href='http://planet.bugzilla.org/'>Planet Bugzilla</a></li>
               <li><a href='https://quality.mozilla.org/'>Planet QMO</a></li>
               <li><a href='http://planet.mozilla.org/ateam/'>Planet Automation</a></li>
-              <li><a href='http://planet.mozilla.org/interns/'>Mozilla Interns</a></li>
               <li><a href='http://planet.mozilla.org/research/'>Mozilla Research</a></li>
-              <li><a href='http://mozilla.com.cn/topic/3/'>Mozilla Online (Chinese)</a></li>
             </ul>
 
             <div id='sidebar'/>
