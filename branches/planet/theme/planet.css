@@ -1,6 +1,7 @@
 * {
   line-height: 1.4;
   padding: 0;
+  max-width: 100%;
 }
 
 ul,
@@ -132,7 +133,7 @@ h4 a {
   text-align: right;
 }
 
-.news img {max-width:100% !important;}
+.news img {max-width:100% !important; height: auto;}
 
 #footer {
   background-image: url('img/footer.jpg');
